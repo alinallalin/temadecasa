@@ -1,0 +1,62 @@
+header{
+    background-color: #4484CE;
+    padding:0.5px;
+}
+header>h1{
+    color:white;
+    text-align:center;
+}
+nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    padding: 12px;
+}
+nav>a{
+    color:black;
+    text-decoration: none;
+    padding:10px 100px;
+}
+nav>a:hover{
+    background-color:#F9cf00;
+}
+a{
+    color:#F19F4D;
+ }
+ main{
+    background-color:#D9D9D9;
+    padding:10px;
+}
+footer{
+    background-color:#4484CE;
+}
+footer>p{
+    color:white;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+}
+svg:hover{
+    transform:rotate(180deg);
+}
+h1{
+    background-color: #F9cf00;
+    font-size:28px;
+}
+h1.titlu{
+    font-size:30px;
+    background-color:#4484CE;
+}
+h1.incurajare{
+    background-color:#F19F4D;
+}
+button{
+    background-color: #F9cf00;
+    font-size:28px;
+}
+p{
+    padding:2px;
+}
+div>p{
+    display:none;
+}
